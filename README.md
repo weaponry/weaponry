@@ -3,7 +3,7 @@
 - [Weaponry](https://weaponry.io) - SaaS-based PostgreSQL monitoring 🐘
   - 📈 Charts
   - 📖 Logs
-  - ✍️ Queries analytic
+  - ✍️ Reports 
   - ⚠️ Recommendations
 - [Demo](https://demo.weaponry.io) - checkout latest features.
 
