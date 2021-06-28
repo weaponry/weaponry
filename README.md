@@ -1,9 +1,11 @@
 ### Weaponry 
 
+This repository provides an issue and feature request tracker for Weaponry – https://weaponry.io
+
 - [Weaponry](https://weaponry.io) - SaaS-based PostgreSQL monitoring 🐘
   - 📈 Charts
   - 📖 Logs
-  - ✍️ Reports 
+  - ✍️ Reports
   - ⚠️ Recommendations
 - [Demo](https://demo.weaponry.io) - checkout latest features.
 
